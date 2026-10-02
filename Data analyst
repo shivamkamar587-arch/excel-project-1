@@ -1,0 +1,95 @@
+# excel-project-1# Sales Performance Dashboard — intelligence dashboard designed to analyze sales performance across salespersons, months, sales ranges, regions, and product categories. The dashboard provides a consolidated view of key sales metrics and helps identify high 2014
+
+ ## Project Overview
+
+ The **Sales Performance Dashboard — 2014** is an interactive business intelligence dashboard designed to analyze sales performance across salespersons, months, sales ranges, regions, and product categories. The dashboard provides a consolidated view of key sales metrics and helps identify high-performing sales representatives, sales trends, regional distribution, and top-selling products.
+
+ The dashboard was developed to transform raw sales data into an easy-to-understand visual report that can support sales monitoring and business decision-making.
+
+ ## Key Project Insights
+
+ ### 1\. Overall Sales Performance
+
+ - The dashboard reports a **total sales value of approximately $714,316** for 2014.
+- The overall performance is presented through multiple visualizations, allowing sales results to be analyzed from different business perspectives.
+
+ ### 2\. Salesperson Performance
+
+ The salesperson analysis highlights significant differences in individual sales contributions.
+
+ - **Nancy Freehafer** generated the highest sales at approximately **$246,050**.
+- **Anne Larsen** followed with approximately **$128K** in sales.
+- Other notable contributors include **Michael Neipper**, **Andrew Cencini**, **Mariya Sergienko**, **Laura Giussani**, **Robert Zare**, and **Jan Kotas**.
+- The visualization makes it possible to quickly identify the highest and lowest contributors to overall sales.
+
+ ### 3\. Monthly Sales Trend
+
+ The monthly trend shows considerable variation throughout the year.
+
+ - **February recorded the highest monthly sales at approximately $278K**.
+- January began at approximately **$33K**.
+- Sales remained comparatively moderate through March to October, with several fluctuations.
+- **December showed an increase to approximately $67K**, indicating stronger sales toward the end of the year.
+- The trend analysis can help identify periods of high and low sales activity.
+
+ ### 4\. Sales Range Analysis
+
+ The sales-range visualization indicates how total sales are distributed across different transaction ranges.
+
+ - The **0–10,000 range contributed approximately $459,962**, representing the largest portion of the displayed sales distribution.
+- The **80,000–90,000 range contributed approximately $87,278**.
+- The **30,000–40,000 range contributed approximately $30,804**.
+- The dashboard therefore provides visibility into how sales are distributed across different value ranges.
+
+ ### 5\. Top 5 Products
+
+ The dashboard identifies the top five products based on sales value:
+
+ | Product | Sales |
+| --- | --- |
+| Almonds | $258,794 |
+| Coffee | $75,486 |
+| Curry Sauce | $72,400 |
+| Marmalade | $47,628 |
+| Mozzarella | $35,705 |
+
+**Almonds** generated the highest sales among the displayed products, with approximately **$258,794**, substantially exceeding the other products in the top-five visualization.
+
+ ### 6\. Interactive Analysis
+
+ The **Report Controller** provides interactive filtering capabilities for:
+
+ - Salesperson
+- Order Date
+- Month
+- Region
+
+ Regions available for analysis include **East, North, South, and West**. These filters allow users to investigate sales performance from different perspectives rather than relying only on the overall figures.
+
+ ## Business Value
+
+ This dashboard demonstrates how sales data can be converted into actionable business insights through data visualization. It enables users to:
+
+ - Monitor overall sales performance.
+- Compare individual salesperson contributions.
+- Identify monthly sales fluctuations.
+- Analyze sales across different transaction-value ranges.
+- Identify high-performing products.
+- Filter results by salesperson, date, month, and region.
+- Support data-driven sales monitoring and performance analysis.
+
+ ## Dashboard Components
+
+ The dashboard consists of the following major sections:
+
+ 1. **Sales by Salesperson** — Compares sales contributions across individual sales representatives.
+2. **Sales Trend** — Displays monthly sales performance throughout 2014.
+3. **Sales by Sales Range** — Shows the distribution of sales across value ranges.
+4. **Top 5 Products** — Highlights the products with the highest sales values.
+5. **Report Controller** — Provides interactive filters for detailed analysis.
+
+ ## Conclusion
+
+ The **Sales Performance Dashboard — 2014** provides a comprehensive visual analysis of sales performance across people, products, time periods, sales ranges, and regions. The analysis highlights **$714,316 in total sales**, identifies major salesperson and product contributors, and illustrates significant monthly variations in sales.
+
+ The project demonstrates practical skills in **data analysis, business intelligence, dashboard design, data visualization, and interactive reporting**, with a focus on presenting complex sales information in a clear and business-oriented format.
